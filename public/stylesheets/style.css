@@ -4,5 +4,33 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
+}
+
+.profile {
+  border-radius: 50%;
+  /* margin-top: 10%; */
+}
+
+/* header.masthead {
+  position: relative;
+  background-color: #343a40;
+  background: url("../images/profile-background2-original-copy.jpeg") no-repeat
+    center center;
+  background-size: cover;
+  padding-top: 4rem;
+  padding-bottom: 8rem;
+} */
+
+/* .transparency {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+} */
+
+.change-color {
+  color: #343a40;
+}
+
+p.mb-5 {
+  font-size: 1.5em;
 }
