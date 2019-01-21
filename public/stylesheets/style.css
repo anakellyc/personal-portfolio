@@ -34,3 +34,16 @@ a {
 p.mb-5 {
   font-size: 1.5em;
 }
+
+.side-note {
+  font-style: italic;
+  line-height: 2em;
+}
+
+.btn-outline-dark {
+  border-color: #2c3e50;
+}
+
+.font-color {
+  color: #2c3e50;
+}
