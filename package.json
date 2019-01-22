@@ -35,6 +35,7 @@
     "http-errors": "~1.6.2",
     "magnific-popup": "^1.1.0",
     "morgan": "~1.9.0",
+    "nodemailer": "^5.1.1",
     "nodemon": "^1.18.9"
   }
 }
