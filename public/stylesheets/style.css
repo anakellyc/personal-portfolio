@@ -1,5 +1,4 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -46,4 +45,9 @@ p.mb-5 {
 
 .button-color:hover {
   background-color: #68adc2 !important;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
 }
